@@ -1,6 +1,6 @@
 --------------------"Rinex_Project"--------------------
 
-Project 2: "Movie_Data_Analysis"
+Project 3: "Movie_Data_Analysis"
 CascadeClassifier, detectMultiScale
 
 - import Libraries according to the requirements
