@@ -1,7 +1,7 @@
 --------------------"Rinex_Project"--------------------
 
 Project 3: "Movie_Data_Analysis"
-CascadeClassifier, detectMultiScale
+read_csv, value_counts, distplot, barplot, Analysis
 
 - Import Libraries according to the requirements
 - Import Dataset
