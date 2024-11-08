@@ -1,0 +1,101 @@
+rank,title,rating,votes,year,minutes,genre,gross
+1,Ramayana: The Legend of Prince Rama,9.2,"7,549",1993,97,"Animation, Action, Adventure",
+2,Spirited Away,8.6,"7,56,112",2001,125,"Animation, Adventure, Family",$10.06M
+3,Meiji Tokyo Renka Movie: Yumihari no Serenade,8.5,39,2015,60,"Animation, Fantasy, Romance",
+4,"Natsu e no tunnel, Sayonara no deguchi",8.5,23,2022,83,Animation,
+5,Attack on Titan: Chronicle,8.5,"10,421",2020,122,"Animation, Action, Adventure",
+6,Gintama: The Final,8.5,"2,381",2021,104,"Animation, Action, Comedy",
+7,Grave of the Fireflies,8.5,"2,75,743",1988,89,"Animation, Drama, War",
+8,Attack on Titan: The Roar of Awakening,8.4,"5,376",2018,120,"Animation, Action, Fantasy",
+9,Your Name.,8.4,"2,65,332",2016,106,"Animation, Drama, Fantasy",$5.02M
+10,Princess Mononoke,8.4,"3,92,732",1997,134,"Animation, Action, Adventure",$2.38M
+11,Fresh Precure!,8.3,32,2009,,"Animation, Action, Comedy",
+12,Gintama the Movie: The Final Chapter - Be Forever Yorozuya,8.3,"2,711",2013,110,"Animation, Action, Comedy",
+13,Gaiking II,8.3,23,2011,120,Animation,
+14,Precure Allstars DX,8.3,88,2009,,Animation,
+15,From the Apennines to the Andes: The Movie,8.3,30,1980,107,"Animation, Adventure, Drama",
+16,Conan the Future Boy: The Big Giant Robot's Resurrection,8.3,657,1984,49,"Animation, Adventure, Family",
+17,Gekijouban Shimajirou no wao!: Shimajirou to kujira no uta,8.2,22,2014,,"Animation, Adventure, Family",
+18,Magnetic Rose,8.2,"2,677",1995,45,"Animation, Drama, Horror",
+19,Demon Slayer the Movie: Mugen Train,8.2,"57,328",2020,117,"Animation, Action, Adventure",$47.70M
+20,Rascal Does Not Dream of a Dreaming Girl,8.2,"4,794",2019,89,"Animation, Drama, Family",
+21,Howl's Moving Castle,8.2,"3,93,001",2004,119,"Animation, Adventure, Family",$4.71M
+22,Makoto-chan,8.2,49,1980,85,Animation,
+23,Tistou the Green Thumb,8.1,30,1990,75,Animation,
+24,A Silent Voice: The Movie,8.1,"81,298",2016,130,"Animation, Drama",
+25,Wolf Children,8.1,"45,159",2012,117,"Animation, Drama, Family",
+26,Legend of the Galactic Heroes: Die Neue These - Stellar War 3,8.1,44,2019,93,"Animation, Action, Drama",
+27,Shoujo Kageki Revue Starlight: Rondo Rondo Rondo,8.1,43,2020,119,"Animation, Drama, Music",
+28,Girls und Panzer Compilation Movie,8.1,30,2018,122,"Animation, Action, Comedy",
+29,Made in Abyss: Dawn of the Deep Soul,8.1,"3,899",2020,113,"Animation, Adventure, Drama",
+30,My Neighbor Totoro,8.1,"3,37,655",1988,86,"Animation, Comedy, Family",$1.11M
+31,Zoku Owarimonogatari,8,827,2018,148,"Animation, Fantasy",
+32,Fate/stay night [Heaven's Feel] II. lost butterfly,8,"2,471",2019,117,"Animation, Action, Adventure",
+33,I Want to Eat Your Pancreas,8,"17,152",2018,109,"Animation, Drama, Family",$0.28M
+34,Mobile Suit Gundam: The Origin III - Dawn of Rebellion,8,495,2016,68,"Animation, Action, Drama",
+35,Black Butler: Book of Murder,8,"1,085",2014,116,"Animation, Adventure, Crime",
+36,Kizumonogatari Part 3: Reiketsu,8,"2,711",2017,83,"Animation, Action, Drama",
+37,Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi,8,449,1994,45,"Animation, Comedy, Drama",
+38,Deadstar the Movie,8,10,2014,63,Animation,
+39,The Tale of The Princess Kaguya,8,"47,044",2013,137,"Animation, Drama, Family",$1.51M
+40,Evangelion: 3.0+1.01 Thrice Upon a Time,8,"10,350",2021,154,"Animation, Action, Drama",
+41,Puella Magi Madoka Magica the Movie Part 2: Eternal,8,"1,530",2012,109,"Animation, Fantasy, Mystery",$0.06M
+42,The Disappearance of Haruhi Suzumiya,8,"7,368",2010,162,"Animation, Drama, Family",
+43,The Quintessential Quintuplets Movie,8,485,2022,136,"Animation, Comedy, Drama",
+44,Eiga Yurukyan,8,50,2022,120,"Animation, Adventure, Comedy",
+45,Gurren Lagann the Movie: The Lights in the Sky are Stars,8,"1,060",2009,126,"Animation, Action, Drama",
+46,Revue Starlight the Movie,8,124,2021,120,"Animation, Action, Drama",
+47,The Garden of Sinners: Paradox Spiral,8,"1,857",2008,114,"Animation, Action, Crime",
+48,Neon Genesis Evangelion: The End of Evangelion,8,"55,028",1997,87,"Animation, Action, Drama",
+49,Perfect Blue,8,"76,780",1997,81,"Animation, Crime, Drama",$0.78M
+50,Akira,8,"1,86,597",1988,124,"Animation, Action, Drama",$0.55M
+51,Castle in the Sky,8,"1,66,679",1986,125,"Animation, Adventure, Family",
+52,Nausicaä of the Valley of the Wind,8,"1,69,469",1984,117,"Animation, Adventure, Sci-Fi",$0.50M
+53,Barefoot Gen,8,"8,065",1983,83,"Animation, Biography, Drama",
+54,Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson,7.9,"4,081",2019,90,"Animation, Action, Adventure",
+55,Fate/stay night [Heaven's Feel] III. spring song,7.9,"2,007",2020,120,"Animation, Action, Adventure",
+56,JoJo's Bizarre Adventure: Phantom Blood,7.9,"1,358",2007,100,"Animation, Action, Adventure",
+57,Kuroko No Basket Movie 3: Winter Cup Soushuuhen - Tobira No Mukou,7.9,437,2016,90,Animation,
+58,Gekijôban Shingeki no Kyojin Kôhen: Jiyû no tsubasa,7.9,"3,255",2015,120,"Animation, Action, Fantasy",
+59,Ushiro no shoumen daare,7.9,331,1991,90,"Animation, Drama, War",
+60,Ghost in the Shell 2.0,7.9,"14,628",2008,83,"Animation, Action, Crime",
+61,Evangelion: 2.0 You Can,7.9,"21,960",2009,112,"Animation, Action, Drama",$0.13M
+62,Whisper of the Heart,7.9,"63,033",1995,111,"Animation, Drama, Family",
+63,Ghost in the Shell,7.9,"1,43,434",1995,83,"Animation, Action, Crime",$0.52M
+64,Legend of the Galactic Heroes: Overture to a New War,7.9,664,1993,90,"Animation, Action, Drama",
+65,"Conan, the Boy in Future",7.8,46,1979,122,"Animation, Adventure, Drama",
+66,Dragon Ball Super: Broly,7.8,"28,022",2018,100,"Animation, Action, Adventure",$30.71M
+67,Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari,7.8,468,2016,90,"Animation, Sport",
+68,Ajin Part 2: Shoutotsu,7.8,535,2016,106,"Animation, Adventure, Horror",
+69,Boruto: Naruto The Movie,7.8,"10,827",2015,95,"Animation, Action, Adventure",
+70,Steins;Gate: The Movie - Load Region of Déjà Vu,7.8,"8,522",2013,90,"Animation, Mystery, Sci-Fi",
+71,Puella Magi Madoka Magica the Movie Part III: The Rebellion Story,7.8,"3,672",2013,116,"Animation, Drama, Fantasy",$0.38M
+72,One Piece Film Z,7.8,"7,620",2012,108,"Animation, Action, Adventure",
+73,Berserk: The Golden Age Arc III - The Advent,7.8,"10,499",2013,110,"Animation, Action, Adventure",
+74,To the Forest of Firefly Lights,7.8,"18,614",2011,45,"Animation, Drama, Fantasy",
+75,Jujutsu Kaisen 0: The Movie,7.8,"17,888",2021,112,"Animation, Action, Fantasy",$34.54M
+76,Revival of Evangelion,7.8,260,1998,159,"Animation, Action, Drama",
+77,High School Fleet the Movie,7.8,66,2020,105,"Animation, Action, Adventure",
+78,Sword of the Stranger,7.8,"16,999",2007,103,"Animation, Action, Adventure",
+79,My Hero Academia: Heroes Rising,7.8,"8,263",2019,104,"Animation, Action, Adventure",
+80,Shining Star: The Birth of New Luna-Queen,7.8,38,2019,78,"Animation, Fantasy, Musical",
+81,Made in Abyss: Wandering Twilight,7.8,788,2019,110,"Animation, Adventure, Fantasy",
+82,Detective Conan: The Phantom of Baker Street,7.8,"3,228",2002,98,"Animation, Adventure, Drama",
+83,Inochi no chikyuu: Daiokishin no natsu,7.8,19,2001,,Animation,
+84,Tokyo Godfathers,7.8,"40,590",2003,92,"Animation, Adventure, Comedy",$0.13M
+85,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,7.8,"14,744",2003,68,"Animation, Adventure, Music",
+86,Cardcaptor Sakura: The Sealed Card,7.8,"1,642",2000,79,"Animation, Adventure, Comedy",
+87,Millennium Actress,7.8,"28,376",2001,87,"Animation, Drama, Fantasy",$0.19M
+88,Cowboy Bebop: The Movie,7.8,"49,122",2001,115,"Animation, Action, Crime",$1.00M
+89,Ninja Scroll,7.8,"37,803",1993,94,"Animation, Action, Adventure",
+90,Kiki's Delivery Service,7.8,"1,44,897",1989,103,"Animation, Adventure, Family",
+91,Legend of the Galactic Heroes: My Conquest is the Sea of Stars,7.8,897,1988,60,"Animation, Action, Drama",
+92,Mobile Suit Gundam: The Origin VI - Rise of the Red Comet,7.7,422,2018,84,"Animation, Action, Drama",
+93,Princess Principal Crown Handler: Chapter 1,7.7,78,2021,54,"Animation, Action, Adventure",
+94,Mobile Suit Gundam: The Origin V - Clash at Loum,7.7,392,2017,84,"Animation, Action, Drama",
+95,Kuroko's Basketball: Last Game,7.7,"2,685",2017,91,"Animation, Drama, Sport",
+96,Mobile Suit Gundam: The Origin IV - Eve of Destiny,7.7,462,2016,85,"Animation, Action, Drama",
+97,Dou Kyu Sei: Classmates,7.7,"2,742",2016,60,"Animation, Drama, Music",
+98,The Shimajiro Movie: Shimajiro in Bookland,7.7,25,2016,61,"Animation, Family",
+99,In This Corner,7.7,"11,242",2016,129,"Animation, Drama, Family",
+100,Asatte Dansu,7.7,10,1991,45,"Animation, Comedy, Romance",
