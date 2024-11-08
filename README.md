@@ -13,7 +13,7 @@ read_csv, value_counts, distplot, barplot, Analysis
 
 --Dataset--
 Attached in the same repository (anime_movies.csv)
-This Dataset is about the anime movies released from 1970 - 2023.
+- This Dataset is about the anime movies released from 1970 - 2023.
 
 --Required Libraries--
 
